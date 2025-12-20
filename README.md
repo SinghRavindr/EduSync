@@ -64,14 +64,13 @@ Students and professionals struggle to extract and retain key information from l
 ## 📽️ Demo & Deliverables
 
 •⁠  ⁠*Demo Video Link:* [https://www.youtube.com/watch?v=eRe7w2I6CzE]  
-•⁠  ⁠*Pitch Deck / PPT Link:* [https://docs.google.com/presentation/d/1hIWxk1hUs1sc4iW7C5nHWVCxpmqBoAZx8lyaTqUZpmc/edit?usp=sharing]
 
 ---
 
 ---
 
 ## 🧪 How to Run the Project
-Either visit our live website at *[https://lectura-omega.vercel.app](https://lectura-omega.vercel.app)* or run the project locally by following the steps below:
+Either visit our live website at *(coming soon..)* or run the project locally by following the steps below:
 ### Requirements:
 •⁠  ⁠Node.js  
 •⁠  ⁠Next.js  
@@ -82,8 +81,8 @@ Either visit our live website at *[https://lectura-omega.vercel.app](https://lec
 ### Local Setup:
 ```bash
 #Clone the repo
-git clone https://github.com/Mohit2005123/Lectura
-cd Lectura
+git clone https://github.com/SinghRavindr/EduSync.git
+cd EduSync
 
 #Install frontend dependencies
 npm install
