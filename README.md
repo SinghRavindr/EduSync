@@ -7,7 +7,7 @@
 ## 📌 Problem Statement
 
     
-Build a creative and interactive multimodal application powered by Groq, leveraging its capabilities to solve real-world problems with a focus on user experience and innovation.
+Build a creative and interactive multimodal application powered by Groq, leveraging its capabilities to solve real-world problems with a focus on user experience and innovation
 
 ---
 
