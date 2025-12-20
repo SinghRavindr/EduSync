@@ -37,7 +37,7 @@ Students and professionals struggle to extract and retain key information from l
 •⁠  ⁠*APIs:* llama-3.3-70b-versatile Model via Groq Cloud  
 •⁠  ⁠*Hosting:* Vercel (frontend), Render (backend)
 
-### Sponsor Technologies Used (if any):
+### Sponsor Technologies Used (if any):-
 •⁠  ⁠✅ *Groq:* Used LLAMA model hosted on Groq Cloud for transcript processing and AI-generated content.
 
 ---
