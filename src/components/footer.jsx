@@ -57,7 +57,7 @@ const Footer = () => {
               <div className="flex items-center space-x-2">
                 <Mail size={16} />
                 <a href="mailto:support@lectura.app" className="hover:text-white transition-colors">
-                  support@lectura.app
+                  ravindrasingh230822@gmail.com
                 </a>
               </div>
             </div>

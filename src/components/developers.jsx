@@ -30,7 +30,7 @@ export default function Developers() {
         {/* Render individual developer components */}
         <div className="items-center justify-center max-w-[30rem] max-h-[30rem] mb-10 mt-5">
           <BackgroundGradientDemo
-            imgSrc="/devs/mohit.jpg"
+            imgSrc="/devs/varun.jpg"
             description="Varun Singhal"
             githubLink="https://github.com/varuns2107"
             linkedinLink="https://www.linkedin.com/in/varun-singhal-747a44284/"
@@ -39,7 +39,7 @@ export default function Developers() {
         </div>
         <div className="items-center justify-center max-w-[30rem] max-h-[30rem] mb-10 mt-5">
           <BackgroundGradientDemo
-            imgSrc="/devs/sparsh.png"
+            imgSrc="/devs/ravindra.png"
             description="Ravindra Singh"
             githubLink="https://github.com/SinghRavindr"
             linkedinLink="https://www.linkedin.com/in/ravindra-singh-31041332b/"
