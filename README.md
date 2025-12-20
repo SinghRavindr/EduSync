@@ -61,7 +61,7 @@ Students and professionals struggle to extract and retain key information from l
 ![Screenshot](public/step-3/3.jpg)
 ![Screenshot](public/step-3/4.jpg)
 
-## 📽️ Demo & Deliverables
+## 📽️ Demo 
 
 •⁠  ⁠*Demo Video Link:* [https://www.youtube.com/watch?v=eRe7w2I6CzE]  
 
