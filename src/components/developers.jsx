@@ -31,19 +31,19 @@ export default function Developers() {
         <div className="items-center justify-center max-w-[30rem] max-h-[30rem] mb-10 mt-5">
           <BackgroundGradientDemo
             imgSrc="/devs/mohit.jpg"
-            description="Mohit Mongia"
-            githubLink="https://github.com/Mohit2005123"
-            linkedinLink="https://www.linkedin.com/in/mongia-mohit/"
-            instagramLink="https://www.instagram.com/mohit_mongia_2005/"
+            description="Varun Singhal"
+            githubLink="https://github.com/varuns2107"
+            linkedinLink="https://www.linkedin.com/in/varun-singhal-747a44284/"
+            instagramLink="https://www.instagram.com/varuns_21/"
           />
         </div>
         <div className="items-center justify-center max-w-[30rem] max-h-[30rem] mb-10 mt-5">
           <BackgroundGradientDemo
             imgSrc="/devs/sparsh.png"
-            description="Sparsh Gulati"
-            githubLink="https://github.com/sparsh7637"
-            linkedinLink="https://www.linkedin.com/in/sparsh-gulati-665032287/"
-            instagramLink="https://www.instagram.com/sparsh_7637/"
+            description="Ravindra Singh"
+            githubLink="https://github.com/SinghRavindr"
+            linkedinLink="https://www.linkedin.com/in/ravindra-singh-31041332b/"
+            instagramLink="https://www.instagram.com/d.ravindra_singh23.8/"
           />
         </div>
         <div className="items-center justify-center max-w-[30rem] max-h-[30rem] mb-10 mt-10">
