@@ -38,7 +38,7 @@ Students and professionals struggle to extract and retain key information from l
 •⁠  ⁠*Hosting:* Vercel (frontend), Render (backend)
 
 ### Sponsor Technologies Used (if any):
-•⁠  ⁠✅ *Groq:* Used LLAMA model hosted on Groq Cloud for transcript processing and AI-generated content
+•⁠  ⁠✅ *Groq:* Used LLAMA model hosted on Groq Cloud for transcript processing and AI-generated content.
 
 ---
 
