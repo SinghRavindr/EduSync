@@ -38,7 +38,7 @@
     "icons-react": "^3.7.1",
     "lucide-react": "^0.468.0",
     "motion": "^11.14.1",
-    "next": "15.0.4",
+    "next": "^15.1.0",
     "openai": "^4.76.2",
     "pdfjs-dist": "^4.10.38",
     "react": "^19.0.0",
@@ -54,9 +54,9 @@
     "youtube-transcript": "^1.2.1"
   },
   "devDependencies": {
-    "eslint": "^8",
-    "eslint-config-next": "15.0.4",
-    "postcss": "^8",
+    "eslint": "^8.57.0",
+    "eslint-config-next": "^15.1.0",
+    "postcss": "^8.4.38",
     "tailwindcss": "^3.4.1"
   }
 }
