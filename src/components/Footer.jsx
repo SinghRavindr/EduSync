@@ -9,7 +9,7 @@ const Footer = () => {
       <div className="max-w-7xl mx-auto px-4 py-12">
         {/* Main Footer Content */}
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
-          
+
           {/* Brand Section */}
           <div className="space-y-4">
             <h3 className="text-2xl font-bold text-white">Lectura</h3>
@@ -55,17 +55,19 @@ const Footer = () => {
           <div className="space-y-4">
             <h4 className="text-lg font-semibold text-white">Contact</h4>
 
-            <div className="flex items-start space-x-2">
-              <Mail size={16} className="mt-1" />
-
-              <div className="flex flex-col space-y-1">
+            <div className="space-y-2">
+              <div className="flex items-center space-x-2">
+                <Mail size={16} />
                 <a
                   href="mailto:ravindrasingh230822@gmail.com"
                   className="hover:text-white transition-colors"
                 >
                   ravindrasingh230822@gmail.com
                 </a>
+              </div>
 
+              <div className="flex items-center space-x-2">
+                <Mail size={16} />
                 <a
                   href="mailto:singhal1varun725@gmail.com"
                   className="hover:text-white transition-colors"
