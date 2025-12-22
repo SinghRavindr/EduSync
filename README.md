@@ -70,7 +70,7 @@ Students and professionals struggle to extract and retain key information from l
 ---
 
 ## 🧪 How to Run the Project
-Either visit our live website at *(coming soon..)* or run the project locally by following the steps below:
+Either visit our live website at https://ai-powered-lectura-ppvt.vercel.app/ or run the project locally by following the steps below:
 ### Requirements:
 •⁠  ⁠Node.js  
 •⁠  ⁠Next.js  
